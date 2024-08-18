@@ -1,6 +1,7 @@
 # prometheus-internship-program_mobile_testing
 
 In this repository are presented 12 tasks that reflect 12 weeks of work on a real project - testing the app SKYBOT (in the app Spaces by WIX).
+<br>
 During the project, 3 versions of the application were presented, which were tested in accordance with all rules and standards.
 <br>
 <p>
